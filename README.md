@@ -19,8 +19,9 @@
 
 ## NOTES:
 -  This account is not a bot.
--  I know there is 1 "s" on the account name. not assistant asistant
+-  I know there is 1 "s" on the account name. not assistant "asistant"
 - Instead of this account, we recommend following **@EgeOnderX**.
+- Take a closer look at : egeonderx.github.io.
 <!---
 EgeOnderX/EgeOnderX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
